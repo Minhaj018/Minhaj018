@@ -5,10 +5,9 @@
 
 - 🔭 I’m currently working on **Data structures and algorithm**
 
-- 💬 Ask me about **#java,html,css,mysql**
+- 💬 Ask me about **#java,html,css,mysql,Dsa**
 
-- 📫 How to reach me **minhajakram440@gmail.com**
-
+- 📫 How to reach me **minhajakram440@gmail.com**,**7543980508**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minhaj-akram-922a9b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhaj-akram-922a9b252" height="30" width="40" /></a>
