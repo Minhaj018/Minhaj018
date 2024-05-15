@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data structures and algorithm**
 
-- 💬 Ask me about **#java,html,css,mysql,Dsa**
+- 💬 Ask me about **#java,html,css,mysql,JavaScript,ReactJs**
 
 - 📫 How to reach me **minhajakram440@gmail.com**
 <h3 align="left">Connect with me:</h3>
